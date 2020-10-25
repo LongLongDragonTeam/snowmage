@@ -1,0 +1,25 @@
+{
+  "name": "snowmage",
+  "version": "1.0.0",
+  "description": "An alternative plugin to use imagemin with snowpack",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LongLongDragonTeam/snowmage.git"
+  },
+  "keywords": [
+    "snowpack",
+    "plugin",
+    "imagemin",
+    "alternative"
+  ],
+  "author": "LongLongDragonTeam (admin@lldragon.net)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LongLongDragonTeam/snowmage/issues"
+  },
+  "homepage": "https://github.com/LongLongDragonTeam/snowmage#readme"
+}
